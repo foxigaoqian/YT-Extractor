@@ -53,11 +53,7 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
         />
-      </head>
-      <body className="font-sans bg-gray-50 text-gray-900 antialiased selection:bg-red-100 selection:text-red-900" suppressHydrationWarning>
-        {children}
-        
-        {/* Google Analytics */}
+                {/* Google Analytics */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-JWJ91L8G8E"
           strategy="afterInteractive"
@@ -71,6 +67,9 @@ export default function RootLayout({
             gtag('config', 'G-JWJ91L8G8E');
           `}
         </Script>
+      </head>
+      <body className="font-sans bg-gray-50 text-gray-900 antialiased selection:bg-red-100 selection:text-red-900" suppressHydrationWarning>
+        {children}
       </body>
     </html>
   );
