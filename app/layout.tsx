@@ -9,6 +9,9 @@ const space = Space_Grotesk({ subsets: ['latin'], variable: '--font-display' });
 export const metadata: Metadata = {
   title: 'Free YouTube Description Extractor | Copy Video Description Online',
   description: 'Free YouTube Description Extractor tool. Works with Shorts, tags, and titles.Extract and copy the full description from any YouTube video instantly. ',
+  icons: {
+  icon: '/youtube.ico',
+  },
   alternates: {
     canonical: 'https://youtubedescriptionextractor.in/',
   },
