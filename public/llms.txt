@@ -1,0 +1,21 @@
+# YouTube Description Extractor
+
+> The fastest way to extract and copy descriptions, tags, and thumbnails from any YouTube video or Short.
+
+## About
+This is a free web tool that allows users to extract metadata from YouTube videos by simply pasting the URL. It bypasses manual copying and provides a clean, formatted output of the video's description, tags, and thumbnail.
+
+## Features
+- Extract Video Title
+- Extract Full Description
+- Extract Video Tags
+- Download High-Quality Thumbnails
+- Works with YouTube Shorts
+- 100% Free and Secure
+- No Registration Required
+
+## Pages
+- [Home](https://youtubedescriptionextractor.in/)
+- [Privacy Policy](https://youtubedescriptionextractor.in/privacy)
+- [Terms of Service](https://youtubedescriptionextractor.in/terms)
+- [Contact](https://youtubedescriptionextractor.in/contact)

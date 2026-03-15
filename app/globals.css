@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --font-display: var(--font-space-grotesk), sans-serif;
+  --font-sans: var(--font-space-grotesk), sans-serif;
+}
+
+@layer utilities {
+  .bg-dot-pattern {
+    background-image: radial-gradient(#e5e7eb 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+}
+
+body {
+  background-color: #FAFAFA;
+  color: #111827;
+}

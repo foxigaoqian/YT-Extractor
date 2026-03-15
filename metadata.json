@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Description Extractor",
+  "description": "Instantly extract and copy the full description from any YouTube video.",
+  "requestFramePermissions": []
+}
