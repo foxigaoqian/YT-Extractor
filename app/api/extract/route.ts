@@ -1,5 +1,7 @@
 import { NextResponse } from 'next/server';
 
+export const runtime = 'edge';
+
 function extractJSON(html: string, keyword: string): any {
   const start = html.indexOf(keyword);
   if (start === -1) return null;
