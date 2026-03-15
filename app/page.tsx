@@ -132,7 +132,7 @@ export default function Home() {
                 <div className="bg-gray-50 p-6 sm:p-8 rounded-[2rem] sm:rounded-3xl border border-gray-100 hover:shadow-lg transition-shadow">
                   <div className="w-12 h-12 sm:w-14 sm:h-14 bg-white shadow-sm text-red-600 rounded-2xl flex items-center justify-center font-display font-bold text-xl sm:text-2xl mb-4 sm:mb-6">3</div>
                   <h3 className="font-display font-bold text-xl sm:text-2xl mb-2 sm:mb-3">Extract & Copy</h3>
-                  <p className="text-sm sm:text-base text-gray-600 leading-relaxed">Click &quot;Extract Description&quot; and instantly copy the text, tags, or download the thumbnail.</p>
+                  <p className="text-sm sm:text-base text-gray-600 leading-relaxed">Click &quot;Extract Now&quot; and instantly copy the text, tags, or download the thumbnail.</p>
                 </div>
               </div>
             </div>
