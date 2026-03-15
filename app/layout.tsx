@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: 'Free YouTube Description Extractor | Copy Video Description Online',
   description: 'Free YouTube Description Extractor tool. Works with Shorts, tags, and titles.Extract and copy the full description from any YouTube video instantly. ',
   icons: {
-  icon: '/youtube.ico',
+  icon: '/favicon.ico',
   },
   alternates: {
     canonical: 'https://youtubedescriptionextractor.in/',
