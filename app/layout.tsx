@@ -7,8 +7,8 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 const space = Space_Grotesk({ subsets: ['latin'], variable: '--font-display' });
 
 export const metadata: Metadata = {
-  title: 'YouTube Description Extractor – Copy Any Video Description Instantly',
-  description: 'Extract and copy the full description from any YouTube video instantly. Free YouTube Description Extractor tool. Works with Shorts, tags, and titles.',
+  title: 'Free YouTube Description Extractor | Copy Video Description Online',
+  description: 'Free YouTube Description Extractor tool. Works with Shorts, tags, and titles.Extract and copy the full description from any YouTube video instantly. ',
   alternates: {
     canonical: 'https://youtubedescriptionextractor.in/',
   },
