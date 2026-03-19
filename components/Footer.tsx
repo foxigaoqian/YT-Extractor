@@ -18,7 +18,9 @@ export default function Footer() {
           <Link href="/terms" className="text-gray-500 hover:text-gray-900 transition-colors">Terms of Service</Link>
           <Link href="/contact" className="text-gray-500 hover:text-gray-900 transition-colors">Contact</Link>
         </div>
-      </div>
+      </div><a href="https://imglab.dev/item/youtube-description-extractor" target="_blank" rel="noopener noreferrer">
+  <img src="https://imglab.dev/svg/badge.svg" alt="Featured on ImgLab" width="160" height="32" />
+</a>
     </footer>
   );
 }
